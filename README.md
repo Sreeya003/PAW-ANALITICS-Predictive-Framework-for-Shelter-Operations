@@ -55,3 +55,17 @@
 3. **Run Application**:
    ```bash
    docker-compose up --build
+
+---
+
+The Team
+
+Bikesh Adhikari   
+Venkata Satya Sreeya Chandrapati   
+Fiyinfoluwa Seinde-Olaniyi
+Sai Tarun Gaddam   
+
+Mentorship: Professor Erol Ozkan, University of Texas at Arlington.
+
+Data Source & License
+This project utilizes public records from the Dallas OpenData portal (FY 2022-2023). All code is provided under the MIT License.
